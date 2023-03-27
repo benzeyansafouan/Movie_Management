@@ -1,0 +1,1 @@
+This is a Spring Boot REST Controller for handling requests related to movies. It provides endpoints for getting all the movies, getting a list of recommended movies by genre, and saving a movie.
